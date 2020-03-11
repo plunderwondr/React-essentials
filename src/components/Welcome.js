@@ -5,7 +5,9 @@ import React, { Component } from 'react'
 
 class Welcome extends Component{
     render(){
-        return <h1>First class component✈</h1>
+        return <h1>Welcome {this.props.name} also known as {this.props.heroName}</h1>
+
+
     }
 }
 

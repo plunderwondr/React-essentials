@@ -4,7 +4,7 @@ import React from 'react'
 //How to write not using JSX (AKA why you need to import react with most files)
 const Hello = () => {
     // return(
-    //     <div className ='dummyClass>
+    //     <div className ='dummyClass'>
     //         <h1>HelloOoo</h1>
     //     </div>
     // )
